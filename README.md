@@ -58,8 +58,8 @@
 7) Use something to redirect the Fortnite servers to localhost:3551 (Which could be fiddler, ssl bypass that redirects servers, etc...)
 8) When Fortnite launches and is connected to the backend, enter your email and password (or launch with an exchange code) then press login. It should let you in and everything should be working fine.
 
-## Credits And Added Features:
-# This backend is made by lawin but modified by me 
-# LawinServerV2 https://github.com/Lawin0129/LawinServerV2
+# Credits And Added Features:
+## This backend is made by lawin but modified by me 
+## LawinServerV2 https://github.com/Lawin0129/LawinServerV2
 
-## Added Features:
+# Added Features:
