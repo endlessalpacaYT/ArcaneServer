@@ -4,7 +4,7 @@
         "bot_token": ""
     },
     "mongodb": {
-        "database": "mongodb://127.0.0.1/lawindb"
+        "database": "mongodb://127.0.0.1/arcanedb"
     },
     "chat": {
         "//": "Disabling global chat can help the server to perform faster as less resources are used.",
